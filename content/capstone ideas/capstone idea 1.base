@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.inFolder("capstone ideas")
+    sort:
+      - property: file.name
+        direction: ASC
+    rowHeight: medium

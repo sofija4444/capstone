@@ -1,0 +1,10 @@
+views:
+  - type: list
+    name: Table
+    filters:
+      and:
+        - file.inFolder("incomplete ideas")
+    order:
+      - file.name
+  - type: list
+    name: View

@@ -1,0 +1,2 @@
+
+Nimbley, E., Golds, L., Sharpe, H., Gillespie-Smith, K., & Duffy, F. (2022). Sensory processing and eating behaviours in autism: A systematic review. European Eating Disorders Review, 30(5), 538-559. https://doi.org/10.1002/erv.2920

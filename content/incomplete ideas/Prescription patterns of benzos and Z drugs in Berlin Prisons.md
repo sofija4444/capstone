@@ -1,0 +1,2 @@
+
+Schwarzer, N., Krebs, J., Konrad, N., Lehmann, M., & Opitz-Welke, A. (2026). Prescription patterns of benzodiazepines and Z-drugs in Berlin prisons. International Journal of Law and Psychiatry, 105, 102189. https://doi.org/10.1016/j.ijlp.2026.102189
