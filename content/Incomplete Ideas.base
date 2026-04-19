@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("incomplete ideas")
+        - file.inFolder("Incomplete Ideas")
     order:
       - file.name
   - type: list
